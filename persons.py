@@ -3,8 +3,8 @@
 from dataclasses import dataclass
 from typing import Self
 
-from appearance.body import Body
-from names import Name
+from .appearance.body import Body
+from .names import Name
 
 
 # --- Person Class --- #
