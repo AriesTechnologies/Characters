@@ -1,2 +1,2 @@
 # Characters
-Character Creation Tool for Python
+Character Creation Package for Python
